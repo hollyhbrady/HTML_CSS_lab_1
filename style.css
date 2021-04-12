@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding: 16px;
+}
+
+body > header > nav {
+    text-align: right;
+}
+
+header > nav > ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+body > main {
+    margin: auto;
+    width: 80%;
+}
+
+body > footer {
+    background-color: dodgerblue;
+}
+
+body > footer > p {
+    padding: 16px;
+    color: white;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.comment-box {
+    width: 500px; 
+    height: 100px; 
+    border: 1px 
+    solid #999999; 
+    padding: 5px;
+}
+
+ main > footer {
+     text-align: right;
+ }
+
+
